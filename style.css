@@ -1,0 +1,16 @@
+body, html {
+  overflow: hidden;
+  margin: 0;
+  height: 100vh;
+}
+
+#app {
+  height: 80vh;
+  width: 80vw;
+  margin: 10vh 10vw;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
